@@ -5,7 +5,6 @@
 Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 
 ---
-
 ## Affiliations
 
 <img src="https://img.shields.io/badge/ODE-000000?style=flat" alt="Open Data Ensemble" height="18" />
@@ -17,7 +16,6 @@ Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 <img src="https://img.shields.io/badge/Hedera-00A9CE?style=flat&logo=hedera&logoColor=white" alt="Hedera Hashgraph" height="18" />
 
 ---
-
 ## Languages I Am Learning
 
 <table>
@@ -60,7 +58,6 @@ Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 </table>
 
 ---
-
 ## Featured Project
 
 ### [MediPact](https://github.com/najuna-brian/medipact)
@@ -74,17 +71,14 @@ A privacy-preserving, FHIR-compliant medical data marketplace using Hedera Hashg
 [![Last Updated](https://img.shields.io/github/last-commit/najuna-brian/medipact?style=flat&label=Last%20Updated)](https://github.com/najuna-brian/medipact)
 
 ---
-
 ## Links
 
-[ORCID](https://orcid.org/0009-0003-0073-4813) • [Instagram](https://www.instagram.com/najuna_brian/) • Location: Kampala, Uganda
+[ORCID](https://orcid.org/0009-0003-0073-4813) • [LinkedIn](https://www.linkedin.com/in/najuna-brian) • Location: Kampala, Uganda
 
 ---
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najuna-brian&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=666666&text_color=333333&hide=contribs,issues&count_private=true)
 
 ---
-
 The future is Open (Source).
