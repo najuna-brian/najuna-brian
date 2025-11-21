@@ -1,6 +1,6 @@
 # Najuna Brian
 
-**Healthcare Technologist • Blockchain Developer • Open Source Contributor**
+**Healthcare Technologist • Blockchain Enthusiast • Open Source Contributor**
 
 Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 
@@ -56,19 +56,6 @@ Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 </td>
 </tr>
 </table>
-
----
-## Featured Project
-
-### [MediPact](https://github.com/najuna-brian/medipact)
-
-**Verifiable Health Data Marketplace**
-
-A privacy-preserving, FHIR-compliant medical data marketplace using Hedera Hashgraph smart contracts and double-anonymization workflows.
-
-[![Stars](https://img.shields.io/github/stars/najuna-brian/medipact?style=flat&logo=github&label=Stars)](https://github.com/najuna-brian/medipact)
-[![License](https://img.shields.io/badge/License-Apache%202.0-000000?style=flat)](https://github.com/najuna-brian/medipact)
-[![Last Updated](https://img.shields.io/github/last-commit/najuna-brian/medipact?style=flat&label=Last%20Updated)](https://github.com/najuna-brian/medipact)
 
 ---
 ## Links
