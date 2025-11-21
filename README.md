@@ -37,10 +37,6 @@ Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 <br />Solidity
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="32" height="32" />
-<br />Rust
-</td>
-<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" />
 <br />SQL
 </td>
