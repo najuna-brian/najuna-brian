@@ -7,13 +7,7 @@ Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 ---
 ## Affiliations
 
-<img src="https://img.shields.io/badge/ODE-000000?style=flat" alt="Open Data Ensemble" height="18" />
-<img src="https://img.shields.io/badge/Medic-000000?style=flat" alt="Community Health Toolkit" height="18" />
-<img src="https://img.shields.io/badge/Creative%20Commons-EF9421?style=flat&logo=creativecommons&logoColor=white" alt="Creative Commons" height="18" />
-<img src="https://img.shields.io/badge/Typelevel-000000?style=flat" alt="Typelevel" height="18" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse Foundation" height="18" />
-<img src="https://img.shields.io/badge/Hiero-000000?style=flat" alt="Hiero" height="18" />
-<img src="https://img.shields.io/badge/Hedera-00A9CE?style=flat&logo=hedera&logoColor=white" alt="Hedera Hashgraph" height="18" />
+<img src="https://img.shields.io/badge/ODE-000000?style=flat" alt="Open Data Ensemble" height="24" /> <img src="https://img.shields.io/badge/Medic-000000?style=flat" alt="Community Health Toolkit" height="24" /> <img src="https://img.shields.io/badge/Creative%20Commons-EF9421?style=flat&logo=creativecommons&logoColor=white" alt="Creative Commons" height="24" /> <img src="https://img.shields.io/badge/Typelevel-000000?style=flat" alt="Typelevel" height="24" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse Foundation" height="24" /> <img src="https://img.shields.io/badge/Hiero-000000?style=flat" alt="Hiero" height="24" /> <img src="https://img.shields.io/badge/Hedera-00A9CE?style=flat&logo=hedera&logoColor=white" alt="Hedera Hashgraph" height="24" />
 
 ---
 ## Languages I Am Learning
@@ -53,6 +47,12 @@ Building privacy-preserving digital health infrastructure on Hedera Hashgraph.
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" />
 <br />Docker
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" height="32" />
+<br />Go
 </td>
 </tr>
 </table>
